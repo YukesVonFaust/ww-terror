@@ -5,7 +5,7 @@ ACTOR Cop1 : WWTBadGuy
 	Health 55
 	SeeSound "Sights/Male02"
 	PainSound "Pains/Male02"
-	DeathSound "Deaths/Male04"
+	DeathSound "Pains/Male02"
 	DropItem "44MagAmmoSmall" 128
 	DropItem "44MagAmmo" 64
 	DropItem "Mateba"
